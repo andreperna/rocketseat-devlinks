@@ -1,3 +1,3 @@
 # Curso iniciante da Rocketseat
 
-## @ Maik Brito
+## @Maik Brito
